@@ -1,0 +1,66 @@
+@import url("https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Acme&family=Alfa+Slab+One&family=Lobster&family=Permanent+Marker&display=swap");
+
+* {
+    font-family: 'Acme', sans-serif;
+
+}
+
+.logo{
+  font-weight: bold;
+  font-size: 50px;
+  text-decoration: none;
+  background-color: rgb(204, 201, 13);
+  border-style: groove;
+  border-color: rgb(0, 0, 0);
+  border-radius: 25%;
+  border-width: 3px;
+
+}
+
+.me{
+  color: rgb(6, 63, 6);
+}
+.xc{
+  color: white;
+}
+.al{
+  color: rgb(143, 9, 9);
+}
+
+.nav {
+  background-image: url("https://i.pinimg.com/originals/93/19/b3/9319b326f0db9de23efe51c945762029.jpg");
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+}
+
+.ruta{
+  font-weight: bold;
+  font-size: 30px;
+  color: rgb(13, 90, 42);
+  text-decoration: none;
+}
+
+ion-icon {
+  font-size: 40px;
+  color: rgba(235, 15, 15, 0.63);
+}
+
+div h3 span ion-icon{
+  font-size: 23px;
+}
+
+.img{
+  width: 250px;
+  height: 300px;
+}
+.card{
+
+  margin: 10px;
+  
+}
+
+.cards{
+  background-image: url("https://w0.peakpx.com/wallpaper/594/49/HD-wallpaper-mexico-mexico-country-mexico-flag.jpg");
+}
